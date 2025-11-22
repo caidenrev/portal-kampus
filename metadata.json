@@ -1,0 +1,5 @@
+{
+  "name": "Portal Akademik Kampus",
+  "description": "A modern, responsive academic portal for university students to view their class schedules, grades, and academic transcripts. This application uses the Gemini API to generate realistic mock data for demonstration purposes.",
+  "requestFramePermissions": []
+}
